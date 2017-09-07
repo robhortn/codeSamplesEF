@@ -1,0 +1,1 @@
+These files are from the project we discussed in the interview, LockBoxSocial.  I've taken care not to share anything proprietary here as I would never want to do that.  This is an example of Angular 1.x code that I wrote for some controllers/views in that project.
